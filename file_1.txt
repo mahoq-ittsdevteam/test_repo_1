@@ -1,6 +1,11 @@
 This is a test line.
 <<<<<<< HEAD
+<<<<<<< HEAD
 This line added in Master branch.
 =======
 I have new branch file
 >>>>>>> seo_title
+=======
+I have new branch file
+this is at shorten_title
+>>>>>>> shortern_title
