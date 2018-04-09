@@ -1,0 +1,6 @@
+This is a test line.
+<<<<<<< HEAD
+This line added in Master branch.
+=======
+I have new branch file
+>>>>>>> seo_title
