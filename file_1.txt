@@ -1,2 +1,0 @@
-This is a test line.
-This line added in Master branch.
